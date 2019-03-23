@@ -1,1 +1,58 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #252529;
+    margin: 0;
+    color: #fff;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+nav{
+    height: 40px;
+    width: 100%;
+    background-color: #333;
+    color: #eee;
+}
+
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+    display: inline;
+   float:right;
+}
+
+nav a{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 0;
+    color: #eee;
+}
+
+nav li:hover{
+    background-color: #444;
+}
+
+nav a#openUp{
+    display: none
+}
+
+@media screen and (max-width: 580px){
+    nav{
+        height:auto;
+        border-bottom: 0;
+    }
+
+    nav ul{
+        display: none;
+        height: auto;
+    }
+
+}
+
+
+
+

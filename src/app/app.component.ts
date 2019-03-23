@@ -6,5 +6,21 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-portfolio';
+  title = 'Mohammed Riaz Khan - Portfolio';
+
+  routes = [
+    {
+      name: "About Me",
+      url: "about"
+    },
+    {
+      name: "Projects",
+      url: "projects"
+    },
+    {
+      name: "Contact Me",
+      url: "contact"
+    }
+  ];
+
 }
