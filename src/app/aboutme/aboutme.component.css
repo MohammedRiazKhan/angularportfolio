@@ -1,3 +1,197 @@
-p{
-    text-align: center
+.landing{
+    width: 100%;
+    height: 579px;
+    background-color: black;
+    padding-left: 30px
+
 }
+
+.landing p{
+    color:white;
+    text-align: center; 
+    
+    
+}
+
+.landing h3{
+    padding-top: 60px;
+    color:white;
+
+}
+
+.landing h5{
+
+    color:  rgb(189, 189, 192)
+
+}
+
+
+.skills{
+    width: 100%;
+    height: auto;
+
+}
+
+.skillz{
+
+    margin-left: 40px;
+    margin-top: 35px
+
+}
+
+.bargraph {
+    list-style: none;
+    padding-top: 15px;
+    width:100%;
+}
+
+ul.bargraph li {
+    height: 35px;
+    color: white;
+    text-align: left;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 14px;
+    line-height: 35px;
+    padding: 0px 20px;
+    margin-bottom: 5px;
+}
+
+ul.bargraph li.ab{
+
+    background-color:black;
+    width:90%;
+
+}
+
+ul.bargraph li.b{
+
+    background-color:black;
+    width:85%;
+
+}
+
+ul.bargraph li.c{
+
+    background-color:black;
+    width:80%;
+
+}
+
+ul.bargraph li.d{
+
+    background-color:black;
+    width:100%;
+
+}
+
+ul.bargraph li.e{
+
+    background-color:black;
+    width:75%;
+
+}
+
+ul.bargraph li.f{
+
+    background-color:black;
+    width:80%;
+
+}
+
+ul.bargraph li.g{
+
+    background-color:black;
+    width:70%;
+
+}
+
+ul.bargraph li.h{
+
+    background-color:black;
+    width:79%;
+
+}
+
+ul.bargraph li.i{
+
+    background-color:black;
+    width:70%;
+
+}
+
+ul.bargraph li.j{
+
+    background-color:black;
+    width:90%;
+
+}
+
+ul.bargraph li.k{
+
+    background-color:black;
+    width:75%;
+
+}
+
+ul.bargraph li.l{
+
+    background-color:black;
+    width:90%;
+
+}
+
+ul.bargraph li.m{
+
+    background-color:black;
+    width:85%;
+
+}
+
+ul.bargraph li.n{
+
+    background-color:black;
+    width:80%;
+
+}
+
+ul.bargraph li.o{
+
+    background-color:black;
+    width:70%;
+
+}
+
+ul.bargraph li.p{
+
+    background-color:black;
+    width:60%;
+
+}
+
+ul.bargraph li.q{
+
+    background-color:black;
+    width:70%;
+
+}
+
+ul.bargraph li.r{
+
+    background-color:black;
+    width:60%;
+
+}
+
+.perc{
+    float: right;
+}
+
+
+
+
+
+         
+
+
+
