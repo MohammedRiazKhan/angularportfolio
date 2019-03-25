@@ -7,6 +7,8 @@ import { AboutmeComponent } from './aboutme/aboutme.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { ContactmeComponent } from './contactme/contactme.component';
 import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
+import { NavComponent } from './site-sections/nav/nav.component';
+import { FooterComponent } from './site-sections/footer/footer.component';
 
 
 @NgModule({
@@ -15,7 +17,9 @@ import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
     AboutmeComponent,
     ProjectsComponent,
     ContactmeComponent,
-    PagenotfoundComponent
+    PagenotfoundComponent,
+    NavComponent,
+    FooterComponent
 
   ],
   imports: [
