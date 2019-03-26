@@ -6,6 +6,12 @@
 
 }
 
+
+#logo{
+    margin-left: 50px;
+    margin-bottom: 40px
+}
+
 .landing p{
     color:white;
     text-align: center; 
@@ -14,7 +20,7 @@
 }
 
 .landing h3{
-    padding-top: 60px;
+    padding-top: 35px;
     color:white;
 
 }
@@ -35,7 +41,8 @@
 .skillz{
 
     margin-left: 40px;
-    margin-top: 35px
+    margin-top: 20px;
+    font-size: 16px
 
 }
 
@@ -189,7 +196,7 @@ ul.bargraph li.r{
 
 #linkedIn{
     margin-left: 40px;
-margin-right: 50px
+margin-right: 60px
 }
 
 #links{

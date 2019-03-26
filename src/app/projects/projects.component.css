@@ -1,3 +1,21 @@
-p{
-    text-align: center
+.project{
+    padding: 25px;
+
 }
+
+.project a{
+    color:gray
+
+}
+
+.head{
+
+    margin-top: 15px
+}
+
+.b{
+    background-color: black;
+    color:white;
+}
+
+
