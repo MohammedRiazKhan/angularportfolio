@@ -195,8 +195,12 @@ ul.bargraph li.r{
 }
 
 #linkedIn{
-    margin-left: 40px;
-margin-right: 60px
+    margin-left: 60px;
+margin-right: 70px
+}
+
+#gh{
+    margin-left: 30px
 }
 
 #links{
