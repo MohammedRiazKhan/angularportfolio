@@ -11,7 +11,7 @@
     "deploy" : "gh-pages -d docs"
   },
   "private": true,
-  "homepage": "https://MohammedRiazKhan.github.io/angular-portfolio",
+  "homepage": "https://MohammedRiazKhan.github.io/angular-portfolio/",
   "dependencies": {
     "@angular/animations": "~7.2.0",
     "@angular/common": "~7.2.0",
