@@ -8,7 +8,7 @@
 
 
 #logo{
-    margin-left: 40px;
+    margin-left: 60px;
     margin-bottom: 40px
 }
 
@@ -172,7 +172,7 @@ ul.bargraph li.o{
 ul.bargraph li.p{
 
     background-color:black;
-    width:60%;
+    width:50%;
 
 }
 
@@ -194,21 +194,12 @@ ul.bargraph li.r{
     float: right;
 }
 
-#linkedIn{
-    margin-left: 60px;
-margin-right: 70px
-}
 
 #gh{
-    margin-left: 30px
+    margin-left: 100px;
+    margin-right:40px
 }
 
-#links{
-
-
-    text-align: center
-
-}
 
 
 
